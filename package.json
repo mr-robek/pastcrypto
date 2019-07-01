@@ -3,11 +3,11 @@
   "name": "btc_data",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "fetchHisoricalData.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "mr_robek",
+  "author": "mr-robek",
   "license": "ISC",
   "dependencies": {
     "request": "^2.88.0"
